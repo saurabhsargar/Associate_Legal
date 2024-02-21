@@ -1751,7 +1751,7 @@
   .auto-container,
   .auto_container {
     position: static;
-    max-width: 1200px;
+    max-width: 1400px;
     padding: 0px 15px;
     margin: 0 auto;
   }
@@ -30600,3 +30600,12 @@
       display: inline-block;
     }
   }/*# sourceMappingURL=theme-css.css.map */
+
+
+/* NEW CSS */
+.T-and-C{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+

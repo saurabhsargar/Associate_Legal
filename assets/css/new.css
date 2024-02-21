@@ -1,0 +1,87 @@
+.fa-solid fa-book {
+    margin-right: 5px;
+}
+
+.container_TC {
+    max-width: 1190px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    color: aliceblue;
+}
+
+.head_TC {
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+.header .header_content_collapse .header_menu_box_TC{
+    display: flex;
+    justify-content: center;
+}
+
+.card_main {
+    width: 370px;
+    margin: 20px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.refund{
+    color: #f9f9f9;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.FAQ-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.faq-item {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+.faq-question {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+}
+.faq-answer {
+    display: none;
+    padding-top: 10px;
+    color: #666;
+}
+.faq-answer p {
+    margin: 0;
+}

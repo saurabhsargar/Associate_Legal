@@ -512,3 +512,8 @@ input[type="password"]{
 .sec_comments .col-lg-12{
   padding: 0px;
 }
+
+/* NEW */
+.fa-solid fa-book{
+  margin-right: px;
+}
